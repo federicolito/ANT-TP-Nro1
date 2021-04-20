@@ -1,2 +1,2 @@
-[a relative link](CV.md)
-[a relative link](pullRequest.md)
+[Curriculum Vitae](CV.md)
+[Explicacion de Pull Request](pullRequest.md)
