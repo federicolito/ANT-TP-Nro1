@@ -8,11 +8,11 @@ Nombre: Sironi Federico
 
 ## Estudis Secundarios:
 
--Secundaria ITS Villada
+-Secundaria Escuti
 
 ## Esudio Universitario:
 
--Universidad catolidca de cordoba: Ingenieria en sistemas
+-Universidad catolidca de cordoba: Agronomia
 
 intercambio en la uuniversidad de Alemania Friedrich-Alexander-Universität Erlangen Nuremberg
 
@@ -20,7 +20,7 @@ intercambio en la uuniversidad de Alemania Friedrich-Alexander-Universität Erla
 
 -Curso de Introducción a la Administración de Empresas en capacitarte.org
 
--pasantia en TELEPROM ARGENTINA SA como full stack
+-pasantia ArgoIndustrio.co en control de plagas 
 
 # Habilidades
 
